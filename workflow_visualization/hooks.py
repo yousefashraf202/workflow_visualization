@@ -25,8 +25,8 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/workflow_visualization/css/workflow_visualization.css"
-# app_include_js = "/assets/workflow_visualization/js/workflow_visualization.js"
+app_include_css = "/assets/workflow_visualization/css/workflow_timeline.css"
+app_include_js = "/assets/workflow_visualization/js/workflow_timeline.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/workflow_visualization/css/workflow_visualization.css"
@@ -252,4 +252,3 @@ app_license = "mit"
 # ------------
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
-
